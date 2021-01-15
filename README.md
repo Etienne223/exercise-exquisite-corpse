@@ -1,5 +1,7 @@
 # READ ME - EXQUISITE CORPSE
 
+![JungleTreeCabane](https://media-cdn.tripadvisor.com/media/vr-splice-j/05/90/a3/c4.jpg)
+
 ## La dernière aventure de Tarzan.
 
 Introduction :
